@@ -1,0 +1,13 @@
+	<style>
+        
+        h2 {
+        background-color: white;
+        }  
+        
+        p {
+            background-color: rgb(255, 255, 255);
+        }
+        body {
+		background-image: url("mybackground.jpg");
+		}
+        </style>
